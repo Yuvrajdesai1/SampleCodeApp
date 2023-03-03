@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "519721675569",
+    "project_id": "nftapp-fd0d7",
+    "storage_bucket": "nftapp-fd0d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519721675569:android:43bfce5e6cd17bf1f89e10",
+        "android_client_info": {
+          "package_name": "com.nftapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519721675569-g92lr5hr35bkl6iuordvq37bak7s8jf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nftapp",
+            "certificate_hash": "db406954f31e10b36bda64dfa3bc16120d5e2639"
+          }
+        },
+        {
+          "client_id": "519721675569-fni4alo97q30uponi9uas830d4oqt856.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFPD2lZlr8D4fngSgBwPBCNh6BWFZqr6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519721675569-fni4alo97q30uponi9uas830d4oqt856.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
